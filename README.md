@@ -1,4 +1,4 @@
-### Salut!!! MAHLET here from 🟢🟡🔴 ETHIOPIA 
+### ሰላም!!! MAHLET here from 🟢🟡🔴 ETHIOPIA 
 
 ![git prifile-01](https://user-images.githubusercontent.com/110999391/190630146-9292b8a9-3152-49c5-a55f-7519cd6e78ba.png)
 
