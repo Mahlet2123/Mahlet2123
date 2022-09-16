@@ -1,6 +1,6 @@
 ### ሰላም!!! MAHLET here from 🟢🟡🔴 ETHIOPIA 
 
-![git prifile-01](https://user-images.githubusercontent.com/110999391/190630146-9292b8a9-3152-49c5-a55f-7519cd6e78ba.png)
+![git prifile png02-01-01](https://user-images.githubusercontent.com/110999391/190632732-bb1e652f-872e-4939-a2c5-6dade72a3f43.png)
 
 
 <!--
