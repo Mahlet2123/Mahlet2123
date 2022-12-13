@@ -1,8 +1,5 @@
 ### ሰላም!!!🟢🟡🔴 
 
-![git prifile png02-01-01](https://user-images.githubusercontent.com/110999391/190632732-bb1e652f-872e-4939-a2c5-6dade72a3f43.png)
-
-
 <!--
 **Mahlet2123/Mahlet2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
