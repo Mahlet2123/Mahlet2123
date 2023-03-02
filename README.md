@@ -30,5 +30,4 @@
 ## :fire: My GitHub Statistics 
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahlet2123&theme=merko&border_radius=10)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahlet2123&theme=vision-friendly-dark&align_right)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahlet2123&theme=dark&show_icons=true&locale=en" alt="Mahlet2123" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahlet2123&theme=vision-friendly-dark&align_right&layout=compact)
