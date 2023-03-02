@@ -1,8 +1,7 @@
-## About me :man_technologist:
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500"/>
 </div>
-Hey wellcome to my github page.
+
 
 ## 📫  How to reach me:
 <div id="badges">
