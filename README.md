@@ -1,7 +1,7 @@
 <div id="header" align="center">
-	<img src="https://komarev.com/ghpvc/?username=Mahlet2123&style=flat-square&color=blue" alt=""/>
 	<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="800" height="auto"/>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Mahlet2123&style-plastic&color=grey" alt=""/>
 
 
 ## 📫  How to reach me:
@@ -30,5 +30,5 @@
 ## :fire: My GitHub Statistics 
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahlet2123&theme=merko&border_radius=10)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahlet2123&layout=compact&theme=vision-friendly-dark&align_right)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahlet2123&theme=vision-friendly-dark&align_right)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahlet2123&theme=dark&show_icons=true&locale=en" alt="Mahlet2123" /></p>
