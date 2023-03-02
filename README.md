@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="800" height="auto"/>
+	<img src="https://komarev.com/ghpvc/?username=Mahlet2123&style=flat-square&color=blue" alt=""/>
+	<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="800" height="auto"/>
 </div>
 
 
