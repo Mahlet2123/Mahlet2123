@@ -25,6 +25,12 @@ Hey wellcome to my github page.
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> </a>
 </div>
 
+## :fire: My GitHub Statistics 
+  
+[GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JaparmySholly&theme=dark&hide_border=true&border_radius=4.9&date_format=M%20j%5B%2C%20Y%5D)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaparmySholly&layout=compact&theme=vision-friendly-dark&align_right)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahlet2123&theme=dark&show_icons=true&locale=en" alt="Mahlet2123" /></p>
+
 <!--
 **Mahlet2123/Mahlet2123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
