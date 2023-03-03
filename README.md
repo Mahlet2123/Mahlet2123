@@ -8,6 +8,9 @@
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/oJ94jghFjQaBg0C92Q/giphy.gif" width="800" height="auto"/>
 </div>
+
+---
+
 <img src="https://komarev.com/ghpvc/?username=Mahlet2123&style-plastic&color=grey" alt=""/>
 
 ---
