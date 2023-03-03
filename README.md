@@ -27,7 +27,7 @@
 ---
 	
 ## :hammer_and_wrench: Languages and Tools :
-<div>
+<div style="color:blue;text-align:center;display:flex";>
 	<a href="https://www.w3schools.com/c/c_intro.php" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" marigin-right="20"/> </a>
 	<a href="https://https://www.linux.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/> </a>
 	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> </a>
