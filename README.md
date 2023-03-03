@@ -9,6 +9,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Mahlet2123&style-plastic&color=grey" alt=""/>
 
+---
 
 ## 📫  How to reach me:
 <div id="badges">
@@ -19,6 +20,8 @@
 	</a>
 </div>
 
+---
+	
 ## :hammer_and_wrench: Languages and Tools :
 <div>
 	<a href="https://www.w3schools.com/c/c_intro.php" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40" marigin-right="20"/> </a>
@@ -33,7 +36,11 @@
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> </a>
 </div>
 
+---
+	
 ## :fire: My Stats
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahlet2123&theme=merko&border_radius=10)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahlet2123&theme=vision-friendly-dark&align_right&layout=compact)
+	
+---
