@@ -1,5 +1,6 @@
 <div id="header" align="center">
-	<img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="800" height="auto"/>
+	<p>hi, i'm Mahlet Seifu, a passionate self-taught full stack web developer and a freelance software engineer from Ethiopia.</p>
+	<img src="https://media.giphy.com/media/oJ94jghFjQaBg0C92Q/giphy.gif" width="800" height="auto"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=Mahlet2123&style-plastic&color=grey" alt=""/>
 
@@ -27,7 +28,7 @@
 	<a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> </a>
 </div>
 
-## :fire: My GitHub Statistics 
+## :fire: My Stats
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mahlet2123&theme=merko&border_radius=10)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahlet2123&theme=vision-friendly-dark&align_right&layout=compact)
