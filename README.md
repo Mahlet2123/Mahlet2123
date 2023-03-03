@@ -1,4 +1,4 @@
-# hi, i'm Mahlet Seifu, a passionate self-taught full stack web developer and a freelance software engineer from Ethiopia.
+	# Hi, I'm Mahlet Seifu, a passionate self-taught full-stack web developer and a freelance software engineer from Ethiopia.
 
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/oJ94jghFjQaBg0C92Q/giphy.gif" width="800" height="auto"/>
