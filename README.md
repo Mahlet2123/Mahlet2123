@@ -16,7 +16,7 @@
 
 ## 📫  How to reach me:
 <div id="badges">
-	<a href="https://www.linkedin.com/in/mahlet-seifu-1a715a142">
+	<a href="https://www.linkedin.com/in/mahlet-seifu-feleke">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	<a href="mailto: akotet2123@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Email Badge"/>
